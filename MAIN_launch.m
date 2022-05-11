@@ -33,7 +33,7 @@ alfa_T_deg=0; % thrust/kick angle [deg]
 
 % parachute
 Sp_body=0.094; % cross section body parachute [m^2]
-Sp_ogive=0.14; % cross section ogive parachute [m^2]
+Sp_ogive=0.23; % cross section ogive parachute [m^2]
 tp=4; % time delay opening parachute [sec]
 
 %% Processing
